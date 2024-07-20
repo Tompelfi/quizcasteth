@@ -1,19 +1,54 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of food.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "What is sushi?",
+      "answers": ["Fish", "Rice", "Soup"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is pizza?",
+      "answers": ["Bread", "Pie", "Cake"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is tofu?",
+      "answers": ["Soy", "Dairy", "Grain"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What is guacamole?",
+      "answers": ["Dip", "Soup", "Bread"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What is ramen?",
+      "answers": ["Noodles", "Rice", "Meat"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is taco?",
+      "answers": ["Wrap", "Bread", "Rice"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is paella?",
+      "answers": ["Rice", "Soup", "Bread"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is gelato?",
+      "answers": ["Ice", "Cake", "Cookie"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is hummus?",
+      "answers": ["Dip", "Bread", "Soup"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is baguette?",
+      "answers": ["Bread", "Cake", "Pasta"],
       "correctAnswerIndex": 0
     }
   ]
